@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Computer Science student at São Judas Tadeu University and Systems Development Technician by Etec de Taboão da Serra<br>- Complete high school at Colégio Terra Brasilis<br><br>Here I share some projects that you can take advantage of to learn more about programming!</p>
+<p align="left">- Computer Science student at São Judas Tadeu University<br>- Systems Development Technician by Etec de Taboão da Serra<br>- Complete high school at Colégio Terra Brasilis<br><br>Here I share some projects that you can take advantage of to learn more about programming!</p>
 
 ###
 
